@@ -1,5 +1,1 @@
-[
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
-]
+[{"file":"1-cover.jpg","note":"Checklist with official names, descriptions and grades, the missable Positive Mental Attitude guide with its sources open, filters and export/import in the toolbar, 12 of 55 earned.","path":"/?demo=progress#/trophy/28","viewport":{"height":800,"width":1280}},{"file":"2-roadmap.jpg","note":"Roadmap to the Platinum: seven stages, the missable warning banner, and per-stage earned counts.","path":"/#/roadmap","viewport":{"height":800,"width":1280}},{"file":"3-spoiler-filters.jpg","note":"Spoiler mode on: story trophies hidden as ??? until earned, with the filter chips, grade select and export/import visible.","path":"/?spoiler=on","viewport":{"height":800,"width":1280}},{"file":"4-progress-detail.jpg","note":"Trophy detail: The Shootist with its 42-challenge target, cited guide and sources, progress bar at 12 of 55.","path":"/?demo=progress#/trophy/17","viewport":{"height":800,"width":1280}}]
